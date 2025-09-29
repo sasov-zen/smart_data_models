@@ -38,4 +38,3 @@ properties:
   maxHydrogenFlowGenerated:
     type: number
     description: Property. Maximum hydrogen flow produced (NL/h)
-
