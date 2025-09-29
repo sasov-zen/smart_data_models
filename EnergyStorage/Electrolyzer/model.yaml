@@ -2,21 +2,21 @@ Electrolyzer:
   description: A generic electrolyzer which can generate hydrogen from energy
   properties:
     location:
-  	type: object
-  	description: GeoProperty. Location
-  	properties: {}
+      type: object
+      description: GeoProperty. Location
+      properties: {}
     status:
-  	type: string
-  	description: 'Property. Status: ON/OFF'
+      type: string
+      description: 'Property. Status: ON/OFF'
     name:
-  	type: string
-  	description: Property. Name of the object
+      type: string
+      description: Property. Name of the object
     maxPowerConsumed:
-  	type: number
-  	description: Property. Maximum power consumed (W)
+      type: number
+      description: Property. Maximum power consumed (W)
     maxHydrogenFlowGenerated:
-  	type: number
-  	description: Property. Maximum hydrogen flow produced (NL/h)
+      type: number
+      description: Property. Maximum hydrogen flow produced (NL/h)
   required:
     - id
     - type
