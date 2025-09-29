@@ -1,3 +1,4 @@
+---
 Electrolyzer:
   description: A generic electrolyzer which can generate hydrogen from energy
   properties:
