@@ -36,4 +36,3 @@ properties:
   maxPressure:
     type: number
     description: Property. Maximum pressure (bar)
-

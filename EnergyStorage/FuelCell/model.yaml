@@ -39,4 +39,3 @@ properties:
   maxHydrogenFlowConsumed:
     type: number
     description: Property. Maximum hydrogen flow consumed (Nl/h)
-
